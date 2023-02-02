@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
+<!-- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90) -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=23&pause=1000&color=FF7AA5&background=FFFCFC00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+hyejin.)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
